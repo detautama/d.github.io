@@ -19,3 +19,9 @@ I have been created personal website using my own domain. But I take it down bec
 Markdown badges, I think I it will be useful for documentation
 [Mardkown Badges](https://ileriayo.github.io/markdown-badges/#markdown-badges) <br/>
 `#Web #Github #PortfolioWebsite #Documentation`
+
+## TIL: I thought my code is the problem about "Why it rendered twice?".
+<sup>01:43 Friday, June 17, 2022 (GMT+8) Time in Celuk, Gianyar Regency, Bali</sup> <br />
+Until I realize that  if you don't install React DevTools extension in your browser, it will show like the web rendered twice (first snip). And then if you installed React DevTools in your browser, it will show you the second rendered is from the DevTools (second snip). 
+Another reference: [Next dev with React 18, Always render twice](https://github.com/vercel/next.js/issues/35822)<br/>
+`#React #NextJs #Devtools`
