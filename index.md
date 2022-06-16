@@ -2,10 +2,10 @@
 In this website you can see my online interest provided with link source.
 
 Find me also on:
--  [Linkedin](https://www.linkedin.com/in/deta-u-8bb1a7107/)
-- [Instagram](https://www.instagram.com/deta_utama/)
-- [Stack Overflow](https://stackoverflow.com/users/7207817/deta-utama)
-- Currently I'm a Middle Web Developer at [Oddbit.id](https://oddbit.id)
+[Linkedin](https://www.linkedin.com/in/deta-u-8bb1a7107/) |
+[Instagram](https://www.instagram.com/deta_utama/) | 
+[Stack Overflow](https://stackoverflow.com/users/7207817/deta-utama) |
+[Oddbit.id](https://oddbit.id) 
 
 Search with tag: #Web, #Github, #PortfolioWebsite, #Documentation, #React, #NextJs, #Devtools
 
