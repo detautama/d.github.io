@@ -7,7 +7,7 @@ Find me also on:
 - [Stack Overflow](https://stackoverflow.com/users/7207817/deta-utama)
 - Currently I'm a Middle Web Developer at [Oddbit.id](https://oddbit.id)
 
-Search with tag: #Web, #Github, #PortfolioWebsite, #Documentation
+Search with tag: #Web, #Github, #PortfolioWebsite, #Documentation, #React, #NextJs, #Devtools
 
 ## 📌 My new personal website
 <sup>00:45, Friday, June 17, 2022 (GMT+8). Time in Celuk, Gianyar Regency, Bali</sup> <br />
