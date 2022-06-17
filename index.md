@@ -15,6 +15,7 @@ I have been created personal website using my own domain. But I take it down bec
 `#Web #Github #PortfolioWebsite`
 
 ## How to know when user entered an area in map
+<sup>16:09 Friday, June 17, 2022 (GMT+8) Time in Dangin Puri Klod, Denpasar City, Bali</sup> <br />
 I'm working on web game project using user device location and map, when user position (geolocation) entered an area in map. They will got point
 ```
 // import booleanPointInPolygon from "@turf/boolean-point-in-polygon";
