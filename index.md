@@ -14,6 +14,23 @@ Search with tag: #Web, #Github, #PortfolioWebsite, #Documentation, #React, #Next
 I have been created personal website using my own domain. But I take it down because I think it will not useful because it only provide like card name. And not suitable with cost of domain 💰. So I will try to use this github pages with concept "My Programming Diary". I will post my activity here like a bookmark and hopefully will be useful for other too 🙂. Also I don't want to confused about code and design of the website 😆. <br />
 `#Web #Github #PortfolioWebsite`
 
+## How to know when user entered an area in map
+I'm working on web game project using user device location and map, when user position (geolocation) entered an area in map. They will got point
+```
+// import booleanPointInPolygon from "@turf/boolean-point-in-polygon";
+
+// state.spots[index].area: Feature<Polygon, {
+//   spotId: string;
+//   points: number;
+// }>
+
+const found = booleanPointInPolygon(
+  state.userPosition,
+  area
+);
+```
+`#React #Turf #Leaflet`
+
 ## This is how I avoid multiple rendering when geolocation callback triggered more than once
 <sup>15:12 Friday, June 17, 2022 (GMT+8) Time in Dangin Puri Klod, Denpasar City, Bali</sup> <br />
 Why? [Demo](https://codesandbox.io/s/affectionate-tdd-mrygkx?file=/src/App.js) <br />
