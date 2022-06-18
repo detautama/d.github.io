@@ -18,7 +18,8 @@ I have been created personal website using my own domain. But I take it down bec
 ## VSCode Zen mode 
 <sup>14:14 Saturday, June 18, 2022 (GMT+8) Time in Celuk, Gianyar Regency, Bali</sup> <br />
 ![VSCode Zen mode](https://i.stack.imgur.com/r7Dd3.png)
-https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_zen-mode Without side bar and setting bars you can focus more easily on just coding. I find my self quite often browsing the files just for the sake of it. 😆
+[VSCode Zen mode](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_zen-mode)
+Without side bar and setting bars you can focus more easily on just coding. I find my self quite often browsing the files just for the sake of it. 😆
 `#VSCode #TextEditor`
 
 ## How to know when user entered an area in map
